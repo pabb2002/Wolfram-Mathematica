@@ -1,4 +1,4 @@
-# WolframMathematica
+# Wolfram-Mathematica
 
 This repository contains the Mathematica programs I have worked on so far, including assignments for my computational chemistry class and other projects.
 
